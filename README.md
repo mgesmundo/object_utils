@@ -8,5 +8,5 @@ Create your documentation using:
 To create documentation you must install [JSDuck](https://github.com/senchalabs/jsduck).
 
 ##### References
-http://stackoverflow.com/questions/1068834/object-comparison-in-javascript
-https://github.com/mitchellsimoens/redis-session
+- http://stackoverflow.com/questions/1068834/object-comparison-in-javascript
+- https://github.com/mitchellsimoens/redis-session
